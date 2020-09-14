@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MonoAdrian23/BlockHeads
+build-by-default: true
+branches:
+- Dev
+projects: []
+...
